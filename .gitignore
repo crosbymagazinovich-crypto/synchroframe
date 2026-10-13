@@ -1,0 +1,12 @@
+# Local keys, environment overrides, archives and scratch files must not be committed.
+.env
+.env.*
+*.pem
+*.key
+*.bak
+*.swp
+*.swo
+*~
+*.tar.gz
+*.zip
+.DS_Store
